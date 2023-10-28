@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Store API
 <h4>This project is A product listing with CRUD operation Using an API</h4>
 ## Available Scripts
 
